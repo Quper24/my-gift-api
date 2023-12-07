@@ -1,0 +1,63 @@
+{
+  "85d7585da7": {
+    "sender_name": "asd",
+    "sender_phone": "asd",
+    "receiver_name": "asd",
+    "receiver_phone": "asd",
+    "message": "asd"
+  },
+  "53b5bd4c7e": {
+    "sender_name": "zxc",
+    "sender_phone": "qwe",
+    "receiver_name": "asd",
+    "receiver_phone": "zxc",
+    "message": "asdqwezxc"
+  },
+  "9cd864830b": {
+    "sender_name": "zxasd",
+    "sender_phone": "qweasd",
+    "receiver_name": "asdzxc",
+    "receiver_phone": "qweasd",
+    "message": "asdqweasd asdqw asd"
+  },
+  "d2f5f7172a": {
+    "sender_name": "asda",
+    "sender_phone": "sda",
+    "receiver_name": "sd",
+    "receiver_phone": "asd",
+    "message": "asd",
+    "card": ""
+  },
+  "dcf08c8f09": {
+    "sender_name": "фыв",
+    "sender_phone": "ячс",
+    "receiver_name": "йцу",
+    "receiver_phone": "фыв",
+    "message": "ячс",
+    "card": "card_01"
+  },
+  "4496415e6b": {
+    "sender_name": "asd",
+    "sender_phone": "+7(",
+    "receiver_name": "asd",
+    "receiver_phone": "+7(",
+    "message": "asd",
+    "card": "card_01"
+  },
+  "7aa249a307": {
+    "sender_name": "asd",
+    "sender_phone": "+7(099)999-99-99",
+    "receiver_name": "sd",
+    "receiver_phone": "+7(999)999-99-99",
+    "message": "asd",
+    "card": "card_01"
+  },
+  "f0a93e2cb6": {
+    "sender_name": "sd",
+    "sender_phone": "+7(222)222-22-22",
+    "receiver_name": "asd",
+    "receiver_phone": "+7(222)222-22-22",
+    "message": "В Новый год желаю счастья,\nБесконечного добра.\nПусть мечты и все желанья\nИсполняются всегда!",
+    "card": "card_01"
+  }
+}
